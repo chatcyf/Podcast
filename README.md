@@ -52,3 +52,19 @@ https://moon.fm/
 可以区参考一下
 
 ***************************************************************************
+
+## YouTube的同步部分
+
+去 YouTube Studio 的后台，内容 - 播客 - 新建播客 - 提交 RSS Feed 订阅
+
+之后添加自己的 .xml 链接就行
+
+例如
+
+https://www.youtube.com/playlist?list=PLBI4x3CAi-Oc
+
+https://music.youtube.com/playlist?list=PLBI4x3CAi-Oc
+
+https://www.youtube.com/@chatcyf/podcasts
+
+***************************************************************************
