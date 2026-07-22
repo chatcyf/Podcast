@@ -1,7 +1,7 @@
 # Podcast - 陈一发儿的播客工具
 
 
-## 使用部分
+## 苹果手机使用部分
 
 苹果手机可以直接用自带的 播客 Podcast 这个工具，打开，播客 - 资料库，通过URL关注节目
 
@@ -22,6 +22,8 @@ https://www.chatcyf.com/static/podcast/songs.xml
 ### 视频部分
 
 https://www.chatcyf.com/static/podcast/videos.xml
+
+## 安卓手机使用部分
 
 安卓手机可以找个类似app就行，比如 AntennaPod 或者 Podcast Go 或者 Moon.fm 之类的
 
