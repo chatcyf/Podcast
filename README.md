@@ -1,11 +1,10 @@
-# Podcast - 陈一发儿的播客工具
+0# Podcast - 陈一发儿的播客工具
 
 ## 陈一发儿的播客
 
 https://www.chatcyf.com/podcast/
 
 ***************************************************************************
-
 
 ## 苹果手机使用部分
 
@@ -29,6 +28,8 @@ https://www.chatcyf.com/static/podcast/songs.xml
 
 https://www.chatcyf.com/static/podcast/videos.xml
 
+***************************************************************************
+
 ## 安卓手机使用部分
 
 安卓手机可以找个类似app就行，比如 AntennaPod 或者 Podcast Go 或者 Moon.fm 之类的
@@ -40,6 +41,15 @@ https://play.google.com/store/apps/details?id=sanity.podcast.freak
 https://moon.fm/
 
 使用方法都差不多
+
+***************************************************************************
+## PC端使用部分
+
+macOS 可以用系统自带的 Podcast app
+
+Windows 工具太多了，随便找一个 播客播放器 之类的工具就行
+
+或者网页：https://www.chatcyf.com/podcast/
 
 ***************************************************************************
 
